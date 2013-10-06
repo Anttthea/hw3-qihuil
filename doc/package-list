@@ -1,0 +1,9 @@
+edu.cmu.deiis.types
+org.cleartk.ne.type
+org.cleartk.score.type
+org.cleartk.srl.type
+org.cleartk.syntax.constituent.type
+org.cleartk.syntax.dependency.type
+org.cleartk.timeml.type
+org.cleartk.token.type
+org.cleartk.util.type
